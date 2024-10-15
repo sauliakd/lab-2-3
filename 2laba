@@ -1,0 +1,99 @@
+<DOCTYPE html>
+  <html>
+    <head>
+      <meta chaster = "UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Джавед Усман Алі Б-125-23-1-БІ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="container" id="box">
+    <img src="https://www.ixbt.com/img/n1/news/2022/8/4/im-628018_large.jpg" alt="Photo" width="400" height="280" >
+    <div class="content content1">
+        <h2>Вступ до програмування</h2>
+        <p>Програмування — це процес написання коду, щоб розв’язати певну проблему або виконати певне завдання.</p>
+           <p>  Програмування дозволяє комп’ютеру запускати ваші щоденні програми, а смартфону — ваші улюблені застосунки. Це невід’ємна частина нашого світу.</p>
+    </div>
+    <div class="content content2">
+        <h2>Вибір мови програмування</h2>
+        <p>JavaScript, Python, C++ чи інша мова? 
+            Дізнайтеся про популярні мови програмування, їхні особливості та визначте,
+             яка з них найкраще підходить для ваших проектів.</p>
+    </div>
+    <div class="content content3">
+        <h2>Алгоритми та структури даних</h2>
+        <p>Ефективні алгоритми та правильні структури даних 
+            є основою швидкої та оптимізованої програми. Вивчайте, як використовувати різні 
+            підходи для вирішення складних завдань.</p>
+    </div>
+    <div class="content content4">
+        <h2>Найкращі практики в програмуванні</h2>
+        <p>Дотримуйтеся чистого коду, тестуйте свої додатки
+             та використовуйте версійний контроль, щоб створювати якісні та підтримувані
+              проекти. Ознайомтеся з порадами від досвідчених розробників.</p>
+    </div>
+    
+</div>
+
+      <br>
+      <br>
+      <p>
+        <i><h3> Experience:</h3></i>
+      </p>
+      <table>
+        <tr>
+          <th>Посада</th>
+          <th>Компанія</th>
+          <th>Роки роботи</th>
+        </tr>
+        <tr>
+          <td>Backend Developer</td>
+          <td>Playtech Ukraine</td>
+          <td>2 рік</td>
+        </tr>
+      </table>
+      <br>
+      <br>
+       <p>
+        <i><h3> Skills:</h3></i>
+      </p>
+      <table>
+       <tr>
+          <th>HTML(5)</th>
+          <th>⭐️⭐️⭐️⭐️</th>
+          <th>C++</th>
+          <th>⭐️⭐️⭐️⭐️</th>
+        </tr>
+        <tr>
+          <td>CSS(3)</td>
+          <td>⭐️⭐️⭐️⭐️</td>
+          <td>Python</td>
+          <td>⭐️⭐️⭐️⭐️</td>
+        </tr> 
+        <tr>
+          <td>JavaScript</td>
+          <td>⭐️⭐️⭐️⭐️</td>
+          <td>Painting</td>
+          <td>⭐️⭐</td>
+        </tr>
+        <tr>
+          <td>C</td>
+          <td>⭐️⭐️⭐️⭐️</td>
+          <td>Sport</td>
+          <td>⭐️⭐️⭐️⭐️</td>
+        </tr>
+      </table>
+        </section>
+    <form>
+        <label for="name">Ваше ім'я:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="email">Ваш Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+        <label for="message">Ваше   
+ повідомлення:</label><br>
+        <textarea id="message" name="message"></textarea><br><br>
+        <input type="submit" value="Надіслати">
+    </form>   
+
+    </body>
+  
